@@ -1,5 +1,5 @@
 ### Project
-Binance Crypto Trading Bot - Boolinger Bands Strategy
+Binance Crypto Trading Bot - Bollinger Bands Strategy
 
 ### Main Goal
 The main goal of this project was to develop a back test enviroment in python to deploy a crypto trading bot using the Binance API. The API was used to gather crypto's historical data and the trading strategy of choice was the Bollinger Bounce Strategy. The created environment allows simultaneous analysis of different digital assests traded on Binance, testing of different trading strategies, and visualizing the trade's data on graphs. The results of this project provided a rough estimate of weather using this bot for live trading on the selected cryptocurrencies would have been profitable over the month of February, 2022. 
