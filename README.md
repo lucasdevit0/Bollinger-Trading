@@ -20,4 +20,8 @@ Bollinger Bands Calculation:;
 -Middle Band = 20-period moving average (most charting packages use the simple moving average);
 -Lower Band = Middle band – 2 standard deviations.;
 
+####Unordered list (*)
 
+* Item A
+* Item B
+* Item C
