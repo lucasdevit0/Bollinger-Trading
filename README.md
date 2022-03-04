@@ -23,7 +23,9 @@ Bollinger Bands Calculation:
 ### Results
 > Results of Bollinger Bounce Strategy over Feb,22:
 <img src="images/result1.png" width="600"> 
+
 > Example Graph: BTC buys and sells over the traded period:
 <img src="images/plot.png" width="600"> 
+
 > Comparison between Bollinger Stratgy and holding the asset over Feb,22:
 <img src="images/result2.png" width="400"> 
